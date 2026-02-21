@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-groq
+sentence-transformers
+transformers
+torch
+unstructured[pdf]
+pdf2image
+pdfminer.six
